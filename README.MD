@@ -4,6 +4,16 @@ This is my frutiger aero themed rice, I will likely update it with time; so you 
 I made a video of this rice, which you can watch here:
 https://www.youtube.com/watch?v=Tx9dHc0MyHs
 
+luap here! I've made a couple of simple updates 
+- added in a hyprpaper config which you'll have to adjust to your desires. 
+- added hyprlock to the hyprland config, you'll need your own config for it which i got from https://github.com/MrVivekRajan/Hyprlock-Styles/ i use style-1, make your own choice!. 
+- swapped the weather api for eww over to pirate weather since openweather is less open than i like lately 
+and 
+- moved my API and LAT/LONG into a new file and just sourced it from the weather script so I don't have to remember to edit things.)
+- oh, and i added the gsettings to activate the icons/gtk theme to hyprland.conf
+
+I would advise installing hyprlock, hyprpaper, and gsettings as well as diinki's advice for installs, you can always add hypridle if you want it, i don't.
+
 ![alt text](./wallpapers/aquarium.png)
 
 # Installation
